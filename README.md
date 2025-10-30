@@ -1,7 +1,11 @@
-# 🔍 Edge Detection — OpenCV (Python)
+# Edge Detection — OpenCV (Python)
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-success?logo=opencv&logoColor=white)](https://opencv.org/)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20|%20Anaconda%20|%20VSCode-gray)
+[![Repo](https://img.shields.io/badge/GitHub-asmadidj%2Fedge--detection-black?logo=github)](https://github.com/asmadidj/edge-detection)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
@@ -9,41 +13,33 @@
 Proyek ini merupakan tugas mata kuliah **Pengolahan Citra Digital / Computer Vision**  
 pada **S2 Teknik Informatika UNPAM**.
 
-Tujuan proyek ini adalah **mendeteksi tepi pada citra digital** menggunakan beberapa metode populer di bidang *image processing*, yaitu:
-- **Sobel Operator**
-- **Laplacian Operator**
-- **Canny Edge Detection**
-
-Hasil deteksi divisualisasikan dalam satu gambar perbandingan untuk memudahkan analisis visual terhadap perbedaan metode.
+Aplikasi ini melakukan **deteksi tepi citra digital (Edge Detection)** menggunakan beberapa metode dari **OpenCV**, seperti:
+- **Sobel**
+- **Laplacian**
+- **Canny**
 
 ---
 
 ## Contoh Hasil Deteksi Tepi
-> Gambar di bawah memperlihatkan hasil deteksi tepi dari citra daun menggunakan metode Sobel, Laplacian, dan Canny.
+
+Gambar berikut memperlihatkan hasil deteksi tepi dari citra daun menggunakan metode Sobel, Laplacian, dan Canny:
 
 ![Contoh Output](https://github.com/asmadidj/edge-detection/blob/main/docs/gambar_comparison.png?raw=true)
 
 ---
 
 ## Teknologi yang Digunakan
-- **Python 3.10+**
-- **OpenCV (cv2)**
-- **NumPy**
-- **Matplotlib**
+-  **Python 3.10+**
+-  **OpenCV (cv2)**
+-  **Matplotlib**
+-  **NumPy**
+-  **Anaconda Environment**
+-  **VSCode / Jupyter Notebook**
 
 ---
 
-## Fitur Utama
-1.Konversi gambar ke **grayscale**  
-2.Deteksi tepi dengan **Sobel**, **Laplacian**, dan **Canny**  
-3.Penyimpanan hasil otomatis ke folder `outputs/`  
-4.Visualisasi hasil menggunakan **matplotlib**
-
----
-
-## Instalasi & Cara Menjalankan
-
-### 1️⃣ Clone repository
-```bash
-git clone https://github.com/asmadidj/edge-detection.git
-cd edge-detection
+## Cara Menjalankan
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/asmadidj/edge-detection.git
+   cd edge-detection
