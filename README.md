@@ -23,7 +23,7 @@ Hasil deteksi divisualisasikan dalam satu gambar perbandingan untuk memudahkan a
 ## Contoh Hasil Deteksi Tepi
 > Gambar di bawah memperlihatkan hasil deteksi tepi dari citra daun menggunakan metode Sobel, Laplacian, dan Canny.
 
-![Contoh Output](outputs/gambar_comparison.png)
+![Contoh Output](docs/gambar_comparison.png)
 
 ---
 
