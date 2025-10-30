@@ -2,8 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-success?logo=opencv&logoColor=white)](https://opencv.org/)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%20|%20Anaconda%20|%20VSCode-gray)
+![Platform](https://img.shields.io/badge/Platform-%20Anaconda%20|%20VSCode-gray)
 [![Repo](https://img.shields.io/badge/GitHub-asmadidj%2Fedge--detection-black?logo=github)](https://github.com/asmadidj/edge-detection)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
