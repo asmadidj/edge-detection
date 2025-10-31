@@ -1,4 +1,4 @@
-# Edge Detection — OpenCV (Python)
+# Edge Detection — OpenCV (Python) - Asmadi Djasman
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-success?logo=opencv&logoColor=white)](https://opencv.org/)
